@@ -1,0 +1,11 @@
+If mongo db have user & pass.
+MONGO_URI=mongodb:
+//user:password@localhost:27017/databasename
+
+Luego de crear Gallery.
+http://ec2-34-205-63-101.compute-1.amazonaws.com:3000/keystone/galleries/5b0c8422d32455105d2242b1
+
+
+shutterstock_108975299.jpg
+  background-image: url("../../images/shutterstock_108975299.jpg"); 
+  background-image: url("../../images/fondo_militar.jpg"); 
